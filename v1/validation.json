@@ -1,0 +1,16 @@
+{
+  "valid_solid": true,
+  "solids": 1,
+  "size_mm": [
+    200.00000000880914,
+    380.00000000000006,
+    10.85074154076658
+  ],
+  "minimum_top_height_mm": 6.984288076861926,
+  "maximum_top_height_mm": 10.849851127224563,
+  "volume_mm3": 680976.1295550559,
+  "triangles": 2838,
+  "note": "Fusion script compiled only; Fusion runtime unavailable.",
+  "stl_closed_edges_at_0_0001_mm": true,
+  "stl_triangles": 2838
+}

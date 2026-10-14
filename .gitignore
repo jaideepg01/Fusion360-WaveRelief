@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+wave_relief_build.log

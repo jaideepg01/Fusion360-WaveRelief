@@ -1,0 +1,608 @@
+WaveRelief 2.0.0
+Script: [local installation path removed]
+21:00:42 run(context) entered
+21:00:42 Create document
+21:00:42 Create user parameters
+21:00:42 Section 1/61: create sketch
+21:00:42 Section 1/61: constrain point 1/55
+21:00:43 Section 1/61: constrain point 9/55
+21:00:44 Section 1/61: constrain point 17/55
+21:00:45 Section 1/61: constrain point 25/55
+21:00:45 Section 1/61: constrain point 33/55
+21:00:46 Section 1/61: constrain point 41/55
+21:00:47 Section 1/61: constrain point 49/55
+21:00:48 Section 1/61: solve sketch
+21:00:48 Section 1 complete: 1 closed profile
+21:00:48 Section 2/61: create sketch
+21:00:48 Section 2/61: constrain point 1/55
+21:00:49 Section 2/61: constrain point 9/55
+21:00:49 Section 2/61: constrain point 17/55
+21:00:50 Section 2/61: constrain point 25/55
+21:00:51 Section 2/61: constrain point 33/55
+21:00:52 Section 2/61: constrain point 41/55
+21:00:53 Section 2/61: constrain point 49/55
+21:00:54 Section 2/61: solve sketch
+21:00:54 Section 2 complete: 1 closed profile
+21:00:54 Section 3/61: create sketch
+21:00:54 Section 3/61: constrain point 1/48
+21:00:55 Section 3/61: constrain point 9/48
+21:00:55 Section 3/61: constrain point 17/48
+21:00:56 Section 3/61: constrain point 25/48
+21:00:57 Section 3/61: constrain point 33/48
+21:00:58 Section 3/61: constrain point 41/48
+21:00:59 Section 3/61: solve sketch
+21:00:59 Section 3 complete: 1 closed profile
+21:00:59 Section 4/61: create sketch
+21:00:59 Section 4/61: constrain point 1/48
+21:01:00 Section 4/61: constrain point 9/48
+21:01:01 Section 4/61: constrain point 17/48
+21:01:02 Section 4/61: constrain point 25/48
+21:01:02 Section 4/61: constrain point 33/48
+21:01:03 Section 4/61: constrain point 41/48
+21:01:04 Section 4/61: solve sketch
+21:01:04 Section 4 complete: 1 closed profile
+21:01:04 Section 5/61: create sketch
+21:01:04 Section 5/61: constrain point 1/46
+21:01:05 Section 5/61: constrain point 9/46
+21:01:06 Section 5/61: constrain point 17/46
+21:01:07 Section 5/61: constrain point 25/46
+21:01:08 Section 5/61: constrain point 33/46
+21:01:09 Section 5/61: constrain point 41/46
+21:01:10 Section 5/61: solve sketch
+21:01:10 Section 5 complete: 1 closed profile
+21:01:10 Section 6/61: create sketch
+21:01:10 Section 6/61: constrain point 1/41
+21:01:10 Section 6/61: constrain point 9/41
+21:01:11 Section 6/61: constrain point 17/41
+21:01:12 Section 6/61: constrain point 25/41
+21:01:13 Section 6/61: constrain point 33/41
+21:01:14 Section 6/61: constrain point 41/41
+21:01:14 Section 6/61: solve sketch
+21:01:14 Section 6 complete: 1 closed profile
+21:01:14 Section 7/61: create sketch
+21:01:14 Section 7/61: constrain point 1/41
+21:01:15 Section 7/61: constrain point 9/41
+21:01:16 Section 7/61: constrain point 17/41
+21:01:16 Section 7/61: constrain point 25/41
+21:01:17 Section 7/61: constrain point 33/41
+21:01:18 Section 7/61: constrain point 41/41
+21:01:18 Section 7/61: solve sketch
+21:01:18 Section 7 complete: 1 closed profile
+21:01:18 Section 8/61: create sketch
+21:01:19 Section 8/61: constrain point 1/41
+21:01:19 Section 8/61: constrain point 9/41
+21:01:20 Section 8/61: constrain point 17/41
+21:01:21 Section 8/61: constrain point 25/41
+21:01:22 Section 8/61: constrain point 33/41
+21:01:23 Section 8/61: constrain point 41/41
+21:01:23 Section 8/61: solve sketch
+21:01:23 Section 8 complete: 1 closed profile
+21:01:23 Section 9/61: create sketch
+21:01:23 Section 9/61: constrain point 1/41
+21:01:24 Section 9/61: constrain point 9/41
+21:01:25 Section 9/61: constrain point 17/41
+21:01:26 Section 9/61: constrain point 25/41
+21:01:27 Section 9/61: constrain point 33/41
+21:01:28 Section 9/61: constrain point 41/41
+21:01:28 Section 9/61: solve sketch
+21:01:28 Section 9 complete: 1 closed profile
+21:01:28 Section 10/61: create sketch
+21:01:29 Section 10/61: constrain point 1/41
+21:01:30 Section 10/61: constrain point 9/41
+21:01:31 Section 10/61: constrain point 17/41
+21:01:32 Section 10/61: constrain point 25/41
+21:01:33 Section 10/61: constrain point 33/41
+21:01:34 Section 10/61: constrain point 41/41
+21:01:34 Section 10/61: solve sketch
+21:01:34 Section 10 complete: 1 closed profile
+21:01:34 Section 11/61: create sketch
+21:01:34 Section 11/61: constrain point 1/41
+21:01:35 Section 11/61: constrain point 9/41
+21:01:36 Section 11/61: constrain point 17/41
+21:01:37 Section 11/61: constrain point 25/41
+21:01:38 Section 11/61: constrain point 33/41
+21:01:39 Section 11/61: constrain point 41/41
+21:01:40 Section 11/61: solve sketch
+21:01:40 Section 11 complete: 1 closed profile
+21:01:40 Section 12/61: create sketch
+21:01:40 Section 12/61: constrain point 1/41
+21:01:41 Section 12/61: constrain point 9/41
+21:01:42 Section 12/61: constrain point 17/41
+21:01:43 Section 12/61: constrain point 25/41
+21:01:44 Section 12/61: constrain point 33/41
+21:01:45 Section 12/61: constrain point 41/41
+21:01:45 Section 12/61: solve sketch
+21:01:45 Section 12 complete: 1 closed profile
+21:01:45 Section 13/61: create sketch
+21:01:46 Section 13/61: constrain point 1/55
+21:01:47 Section 13/61: constrain point 9/55
+21:01:48 Section 13/61: constrain point 17/55
+21:01:50 Section 13/61: constrain point 25/55
+21:01:51 Section 13/61: constrain point 33/55
+21:01:53 Section 13/61: constrain point 41/55
+21:01:54 Section 13/61: constrain point 49/55
+21:01:56 Section 13/61: solve sketch
+21:01:56 Section 13 complete: 1 closed profile
+21:01:56 Section 14/61: create sketch
+21:01:56 Section 14/61: constrain point 1/54
+21:01:57 Section 14/61: constrain point 9/54
+21:01:59 Section 14/61: constrain point 17/54
+21:02:00 Section 14/61: constrain point 25/54
+21:02:02 Section 14/61: constrain point 33/54
+21:02:03 Section 14/61: constrain point 41/54
+21:02:05 Section 14/61: constrain point 49/54
+21:02:06 Section 14/61: solve sketch
+21:02:06 Section 14 complete: 1 closed profile
+21:02:06 Section 15/61: create sketch
+21:02:06 Section 15/61: constrain point 1/55
+21:02:08 Section 15/61: constrain point 9/55
+21:02:09 Section 15/61: constrain point 17/55
+21:02:11 Section 15/61: constrain point 25/55
+21:02:13 Section 15/61: constrain point 33/55
+21:02:14 Section 15/61: constrain point 41/55
+21:02:16 Section 15/61: constrain point 49/55
+21:02:17 Section 15/61: solve sketch
+21:02:18 Section 15 complete: 1 closed profile
+21:02:18 Section 16/61: create sketch
+21:02:18 Section 16/61: constrain point 1/55
+21:02:19 Section 16/61: constrain point 9/55
+21:02:21 Section 16/61: constrain point 17/55
+21:02:23 Section 16/61: constrain point 25/55
+21:02:24 Section 16/61: constrain point 33/55
+21:02:26 Section 16/61: constrain point 41/55
+21:02:28 Section 16/61: constrain point 49/55
+21:02:29 Section 16/61: solve sketch
+21:02:29 Section 16 complete: 1 closed profile
+21:02:29 Section 17/61: create sketch
+21:02:30 Section 17/61: constrain point 1/55
+21:02:31 Section 17/61: constrain point 9/55
+21:02:33 Section 17/61: constrain point 17/55
+21:02:35 Section 17/61: constrain point 25/55
+21:02:36 Section 17/61: constrain point 33/55
+21:02:38 Section 17/61: constrain point 41/55
+21:02:40 Section 17/61: constrain point 49/55
+21:02:42 Section 17/61: solve sketch
+21:02:42 Section 17 complete: 1 closed profile
+21:02:42 Section 18/61: create sketch
+21:02:42 Section 18/61: constrain point 1/55
+21:02:44 Section 18/61: constrain point 9/55
+21:02:45 Section 18/61: constrain point 17/55
+21:02:47 Section 18/61: constrain point 25/55
+21:02:49 Section 18/61: constrain point 33/55
+21:02:51 Section 18/61: constrain point 41/55
+21:02:53 Section 18/61: constrain point 49/55
+21:02:55 Section 18/61: solve sketch
+21:02:55 Section 18 complete: 1 closed profile
+21:02:55 Section 19/61: create sketch
+21:02:55 Section 19/61: constrain point 1/54
+21:02:57 Section 19/61: constrain point 9/54
+21:02:59 Section 19/61: constrain point 17/54
+21:03:00 Section 19/61: constrain point 25/54
+21:03:02 Section 19/61: constrain point 33/54
+21:03:04 Section 19/61: constrain point 41/54
+21:03:06 Section 19/61: constrain point 49/54
+21:03:08 Section 19/61: solve sketch
+21:03:08 Section 19 complete: 1 closed profile
+21:03:08 Section 20/61: create sketch
+21:03:08 Section 20/61: constrain point 1/48
+21:03:10 Section 20/61: constrain point 9/48
+21:03:12 Section 20/61: constrain point 17/48
+21:03:14 Section 20/61: constrain point 25/48
+21:03:15 Section 20/61: constrain point 33/48
+21:03:17 Section 20/61: constrain point 41/48
+21:03:19 Section 20/61: solve sketch
+21:03:19 Section 20 complete: 1 closed profile
+21:03:19 Section 21/61: create sketch
+21:03:20 Section 21/61: constrain point 1/48
+21:03:21 Section 21/61: constrain point 9/48
+21:03:23 Section 21/61: constrain point 17/48
+21:03:25 Section 21/61: constrain point 25/48
+21:03:27 Section 21/61: constrain point 33/48
+21:03:29 Section 21/61: constrain point 41/48
+21:03:31 Section 21/61: solve sketch
+21:03:31 Section 21 complete: 1 closed profile
+21:03:31 Section 22/61: create sketch
+21:03:32 Section 22/61: constrain point 1/48
+21:03:34 Section 22/61: constrain point 9/48
+21:03:35 Section 22/61: constrain point 17/48
+21:03:37 Section 22/61: constrain point 25/48
+21:03:39 Section 22/61: constrain point 33/48
+21:03:41 Section 22/61: constrain point 41/48
+21:03:44 Section 22/61: solve sketch
+21:03:44 Section 22 complete: 1 closed profile
+21:03:44 Section 23/61: create sketch
+21:03:44 Section 23/61: constrain point 1/48
+21:03:46 Section 23/61: constrain point 9/48
+21:03:48 Section 23/61: constrain point 17/48
+21:03:50 Section 23/61: constrain point 25/48
+21:03:52 Section 23/61: constrain point 33/48
+21:03:54 Section 23/61: constrain point 41/48
+21:03:56 Section 23/61: solve sketch
+21:03:56 Section 23 complete: 1 closed profile
+21:03:56 Section 24/61: create sketch
+21:03:57 Section 24/61: constrain point 1/48
+21:03:58 Section 24/61: constrain point 9/48
+21:04:00 Section 24/61: constrain point 17/48
+21:04:03 Section 24/61: constrain point 25/48
+21:04:05 Section 24/61: constrain point 33/48
+21:04:07 Section 24/61: constrain point 41/48
+21:04:09 Section 24/61: solve sketch
+21:04:09 Section 24 complete: 1 closed profile
+21:04:09 Section 25/61: create sketch
+21:04:09 Section 25/61: constrain point 1/48
+21:04:11 Section 25/61: constrain point 9/48
+21:04:14 Section 25/61: constrain point 17/48
+21:04:16 Section 25/61: constrain point 25/48
+21:04:18 Section 25/61: constrain point 33/48
+21:04:20 Section 25/61: constrain point 41/48
+21:04:22 Section 25/61: solve sketch
+21:04:22 Section 25 complete: 1 closed profile
+21:04:22 Section 26/61: create sketch
+21:04:23 Section 26/61: constrain point 1/48
+21:04:25 Section 26/61: constrain point 9/48
+21:04:27 Section 26/61: constrain point 17/48
+21:04:29 Section 26/61: constrain point 25/48
+21:04:31 Section 26/61: constrain point 33/48
+21:04:34 Section 26/61: constrain point 41/48
+21:04:36 Section 26/61: solve sketch
+21:04:36 Section 26 complete: 1 closed profile
+21:04:36 Section 27/61: create sketch
+21:04:36 Section 27/61: constrain point 1/48
+21:04:38 Section 27/61: constrain point 9/48
+21:04:41 Section 27/61: constrain point 17/48
+21:04:43 Section 27/61: constrain point 25/48
+21:04:45 Section 27/61: constrain point 33/48
+21:04:47 Section 27/61: constrain point 41/48
+21:04:50 Section 27/61: solve sketch
+21:04:50 Section 27 complete: 1 closed profile
+21:04:50 Section 28/61: create sketch
+21:04:50 Section 28/61: constrain point 1/48
+21:04:52 Section 28/61: constrain point 9/48
+21:04:55 Section 28/61: constrain point 17/48
+21:04:57 Section 28/61: constrain point 25/48
+21:04:59 Section 28/61: constrain point 33/48
+21:05:02 Section 28/61: constrain point 41/48
+21:05:04 Section 28/61: solve sketch
+21:05:04 Section 28 complete: 1 closed profile
+21:05:04 Section 29/61: create sketch
+21:05:05 Section 29/61: constrain point 1/48
+21:05:07 Section 29/61: constrain point 9/48
+21:05:09 Section 29/61: constrain point 17/48
+21:05:12 Section 29/61: constrain point 25/48
+21:05:14 Section 29/61: constrain point 33/48
+21:05:16 Section 29/61: constrain point 41/48
+21:05:19 Section 29/61: solve sketch
+21:05:19 Section 29 complete: 1 closed profile
+21:05:19 Section 30/61: create sketch
+21:05:19 Section 30/61: constrain point 1/54
+21:05:22 Section 30/61: constrain point 9/54
+21:05:24 Section 30/61: constrain point 17/54
+21:05:27 Section 30/61: constrain point 25/54
+21:05:29 Section 30/61: constrain point 33/54
+21:05:32 Section 30/61: constrain point 41/54
+21:05:34 Section 30/61: constrain point 49/54
+21:05:36 Section 30/61: solve sketch
+21:05:37 Section 30 complete: 1 closed profile
+21:05:37 Section 31/61: create sketch
+21:05:37 Section 31/61: constrain point 1/55
+21:05:39 Section 31/61: constrain point 9/55
+21:05:42 Section 31/61: constrain point 17/55
+21:05:45 Section 31/61: constrain point 25/55
+21:05:47 Section 31/61: constrain point 33/55
+21:05:50 Section 31/61: constrain point 41/55
+21:05:53 Section 31/61: constrain point 49/55
+21:05:55 Section 31/61: solve sketch
+21:05:55 Section 31 complete: 1 closed profile
+21:05:55 Section 32/61: create sketch
+21:05:56 Section 32/61: constrain point 1/55
+21:05:58 Section 32/61: constrain point 9/55
+21:06:01 Section 32/61: constrain point 17/55
+21:06:03 Section 32/61: constrain point 25/55
+21:06:06 Section 32/61: constrain point 33/55
+21:06:09 Section 32/61: constrain point 41/55
+21:06:12 Section 32/61: constrain point 49/55
+21:06:14 Section 32/61: solve sketch
+21:06:14 Section 32 complete: 1 closed profile
+21:06:14 Section 33/61: create sketch
+21:06:15 Section 33/61: constrain point 1/55
+21:06:17 Section 33/61: constrain point 9/55
+21:06:20 Section 33/61: constrain point 17/55
+21:06:23 Section 33/61: constrain point 25/55
+21:06:26 Section 33/61: constrain point 33/55
+21:06:28 Section 33/61: constrain point 41/55
+21:06:31 Section 33/61: constrain point 49/55
+21:06:34 Section 33/61: solve sketch
+21:06:34 Section 33 complete: 1 closed profile
+21:06:34 Section 34/61: create sketch
+21:06:34 Section 34/61: constrain point 1/52
+21:06:37 Section 34/61: constrain point 9/52
+21:06:40 Section 34/61: constrain point 17/52
+21:06:42 Section 34/61: constrain point 25/52
+21:06:45 Section 34/61: constrain point 33/52
+21:06:48 Section 34/61: constrain point 41/52
+21:06:51 Section 34/61: constrain point 49/52
+21:06:52 Section 34/61: solve sketch
+21:06:52 Section 34 complete: 1 closed profile
+21:06:52 Section 35/61: create sketch
+21:06:53 Section 35/61: constrain point 1/55
+21:06:55 Section 35/61: constrain point 9/55
+21:06:58 Section 35/61: constrain point 17/55
+21:07:01 Section 35/61: constrain point 25/55
+21:07:04 Section 35/61: constrain point 33/55
+21:07:07 Section 35/61: constrain point 41/55
+21:07:10 Section 35/61: constrain point 49/55
+21:07:13 Section 35/61: solve sketch
+21:07:13 Section 35 complete: 1 closed profile
+21:07:13 Section 36/61: create sketch
+21:07:13 Section 36/61: constrain point 1/55
+21:07:16 Section 36/61: constrain point 9/55
+21:07:19 Section 36/61: constrain point 17/55
+21:07:22 Section 36/61: constrain point 25/55
+21:07:25 Section 36/61: constrain point 33/55
+21:07:28 Section 36/61: constrain point 41/55
+21:07:31 Section 36/61: constrain point 49/55
+21:07:34 Section 36/61: solve sketch
+21:07:34 Section 36 complete: 1 closed profile
+21:07:34 Section 37/61: create sketch
+21:07:35 Section 37/61: constrain point 1/55
+21:07:37 Section 37/61: constrain point 9/55
+21:07:40 Section 37/61: constrain point 17/55
+21:07:43 Section 37/61: constrain point 25/55
+21:07:46 Section 37/61: constrain point 33/55
+21:07:50 Section 37/61: constrain point 41/55
+21:07:53 Section 37/61: constrain point 49/55
+21:07:55 Section 37/61: solve sketch
+21:07:56 Section 37 complete: 1 closed profile
+21:07:56 Section 38/61: create sketch
+21:07:56 Section 38/61: constrain point 1/54
+21:07:59 Section 38/61: constrain point 9/54
+21:08:02 Section 38/61: constrain point 17/54
+21:08:05 Section 38/61: constrain point 25/54
+21:08:08 Section 38/61: constrain point 33/54
+21:08:11 Section 38/61: constrain point 41/54
+21:08:15 Section 38/61: constrain point 49/54
+21:08:17 Section 38/61: solve sketch
+21:08:17 Section 38 complete: 1 closed profile
+21:08:17 Section 39/61: create sketch
+21:08:18 Section 39/61: constrain point 1/55
+21:08:21 Section 39/61: constrain point 9/55
+21:08:24 Section 39/61: constrain point 17/55
+21:08:27 Section 39/61: constrain point 25/55
+21:08:30 Section 39/61: constrain point 33/55
+21:08:33 Section 39/61: constrain point 41/55
+21:08:37 Section 39/61: constrain point 49/55
+21:08:40 Section 39/61: solve sketch
+21:08:40 Section 39 complete: 1 closed profile
+21:08:40 Section 40/61: create sketch
+21:08:40 Section 40/61: constrain point 1/41
+21:08:43 Section 40/61: constrain point 9/41
+21:08:46 Section 40/61: constrain point 17/41
+21:08:49 Section 40/61: constrain point 25/41
+21:08:52 Section 40/61: constrain point 33/41
+21:08:55 Section 40/61: constrain point 41/41
+21:08:55 Section 40/61: solve sketch
+21:08:56 Section 40 complete: 1 closed profile
+21:08:56 Section 41/61: create sketch
+21:08:56 Section 41/61: constrain point 1/47
+21:08:59 Section 41/61: constrain point 9/47
+21:09:02 Section 41/61: constrain point 17/47
+21:09:05 Section 41/61: constrain point 25/47
+21:09:09 Section 41/61: constrain point 33/47
+21:09:12 Section 41/61: constrain point 41/47
+21:09:15 Section 41/61: solve sketch
+21:09:15 Section 41 complete: 1 closed profile
+21:09:15 Section 42/61: create sketch
+21:09:16 Section 42/61: constrain point 1/61
+21:09:19 Section 42/61: constrain point 9/61
+21:09:22 Section 42/61: constrain point 17/61
+21:09:26 Section 42/61: constrain point 25/61
+21:09:30 Section 42/61: constrain point 33/61
+21:09:33 Section 42/61: constrain point 41/61
+21:09:37 Section 42/61: constrain point 49/61
+21:09:41 Section 42/61: constrain point 57/61
+21:09:43 Section 42/61: solve sketch
+21:09:43 Section 42 complete: 1 closed profile
+21:09:43 Section 43/61: create sketch
+21:09:44 Section 43/61: constrain point 1/55
+21:09:47 Section 43/61: constrain point 9/55
+21:09:51 Section 43/61: constrain point 17/55
+21:09:54 Section 43/61: constrain point 25/55
+21:09:58 Section 43/61: constrain point 33/55
+21:10:01 Section 43/61: constrain point 41/55
+21:10:05 Section 43/61: constrain point 49/55
+21:10:08 Section 43/61: solve sketch
+21:10:08 Section 43 complete: 1 closed profile
+21:10:08 Section 44/61: create sketch
+21:10:09 Section 44/61: constrain point 1/55
+21:10:12 Section 44/61: constrain point 9/55
+21:10:15 Section 44/61: constrain point 17/55
+21:10:19 Section 44/61: constrain point 25/55
+21:10:22 Section 44/61: constrain point 33/55
+21:10:26 Section 44/61: constrain point 41/55
+21:10:30 Section 44/61: constrain point 49/55
+21:10:33 Section 44/61: solve sketch
+21:10:33 Section 44 complete: 1 closed profile
+21:10:33 Section 45/61: create sketch
+21:10:34 Section 45/61: constrain point 1/55
+21:10:37 Section 45/61: constrain point 9/55
+21:10:41 Section 45/61: constrain point 17/55
+21:10:44 Section 45/61: constrain point 25/55
+21:10:48 Section 45/61: constrain point 33/55
+21:10:52 Section 45/61: constrain point 41/55
+21:10:55 Section 45/61: constrain point 49/55
+21:10:58 Section 45/61: solve sketch
+21:10:59 Section 45 complete: 1 closed profile
+21:10:59 Section 46/61: create sketch
+21:10:59 Section 46/61: constrain point 1/55
+21:11:03 Section 46/61: constrain point 9/55
+21:11:06 Section 46/61: constrain point 17/55
+21:11:10 Section 46/61: constrain point 25/55
+21:11:14 Section 46/61: constrain point 33/55
+21:11:17 Section 46/61: constrain point 41/55
+21:11:21 Section 46/61: constrain point 49/55
+21:11:25 Section 46/61: solve sketch
+21:11:25 Section 46 complete: 1 closed profile
+21:11:25 Section 47/61: create sketch
+21:11:25 Section 47/61: constrain point 1/55
+21:11:29 Section 47/61: constrain point 9/55
+21:11:33 Section 47/61: constrain point 17/55
+21:11:36 Section 47/61: constrain point 25/55
+21:11:40 Section 47/61: constrain point 33/55
+21:11:44 Section 47/61: constrain point 41/55
+21:11:48 Section 47/61: constrain point 49/55
+21:11:51 Section 47/61: solve sketch
+21:11:51 Section 47 complete: 1 closed profile
+21:11:51 Section 48/61: create sketch
+21:11:52 Section 48/61: constrain point 1/55
+21:11:55 Section 48/61: constrain point 9/55
+21:11:59 Section 48/61: constrain point 17/55
+21:12:03 Section 48/61: constrain point 25/55
+21:12:07 Section 48/61: constrain point 33/55
+21:12:11 Section 48/61: constrain point 41/55
+21:12:15 Section 48/61: constrain point 49/55
+21:12:18 Section 48/61: solve sketch
+21:12:18 Section 48 complete: 1 closed profile
+21:12:18 Section 49/61: create sketch
+21:12:19 Section 49/61: constrain point 1/55
+21:12:22 Section 49/61: constrain point 9/55
+21:12:26 Section 49/61: constrain point 17/55
+21:12:30 Section 49/61: constrain point 25/55
+21:12:34 Section 49/61: constrain point 33/55
+21:12:38 Section 49/61: constrain point 41/55
+21:12:42 Section 49/61: constrain point 49/55
+21:12:46 Section 49/61: solve sketch
+21:12:46 Section 49 complete: 1 closed profile
+21:12:46 Section 50/61: create sketch
+21:12:46 Section 50/61: constrain point 1/54
+21:12:50 Section 50/61: constrain point 9/54
+21:12:54 Section 50/61: constrain point 17/54
+21:12:58 Section 50/61: constrain point 25/54
+21:13:02 Section 50/61: constrain point 33/54
+21:13:06 Section 50/61: constrain point 41/54
+21:13:10 Section 50/61: constrain point 49/54
+21:13:13 Section 50/61: solve sketch
+21:13:13 Section 50 complete: 1 closed profile
+21:13:13 Section 51/61: create sketch
+21:13:14 Section 51/61: constrain point 1/55
+21:13:17 Section 51/61: constrain point 9/55
+21:13:21 Section 51/61: constrain point 17/55
+21:13:25 Section 51/61: constrain point 25/55
+21:13:29 Section 51/61: constrain point 33/55
+21:13:34 Section 51/61: constrain point 41/55
+21:13:38 Section 51/61: constrain point 49/55
+21:13:41 Section 51/61: solve sketch
+21:13:41 Section 51 complete: 1 closed profile
+21:13:41 Section 52/61: create sketch
+21:13:42 Section 52/61: constrain point 1/68
+21:13:47 Section 52/61: constrain point 9/68
+21:13:51 Section 52/61: constrain point 17/68
+21:13:56 Section 52/61: constrain point 25/68
+21:14:00 Section 52/61: constrain point 33/68
+21:14:05 Section 52/61: constrain point 41/68
+21:14:10 Section 52/61: constrain point 49/68
+21:14:15 Section 52/61: constrain point 57/68
+21:14:19 Section 52/61: constrain point 65/68
+21:14:22 Section 52/61: solve sketch
+21:14:22 Section 52 complete: 1 closed profile
+21:14:22 Section 53/61: create sketch
+21:14:23 Section 53/61: constrain point 1/75
+21:14:28 Section 53/61: constrain point 9/75
+21:14:33 Section 53/61: constrain point 17/75
+21:14:38 Section 53/61: constrain point 25/75
+21:14:43 Section 53/61: constrain point 33/75
+21:14:48 Section 53/61: constrain point 41/75
+21:14:53 Section 53/61: constrain point 49/75
+21:14:59 Section 53/61: constrain point 57/75
+21:15:04 Section 53/61: constrain point 65/75
+21:15:09 Section 53/61: constrain point 73/75
+21:15:11 Section 53/61: solve sketch
+21:15:11 Section 53 complete: 1 closed profile
+21:15:11 Section 54/61: create sketch
+21:15:12 Section 54/61: constrain point 1/69
+21:15:17 Section 54/61: constrain point 9/69
+21:15:22 Section 54/61: constrain point 17/69
+21:15:27 Section 54/61: constrain point 25/69
+21:15:32 Section 54/61: constrain point 33/69
+21:15:37 Section 54/61: constrain point 41/69
+21:15:42 Section 54/61: constrain point 49/69
+21:15:47 Section 54/61: constrain point 57/69
+21:15:52 Section 54/61: constrain point 65/69
+21:15:55 Section 54/61: solve sketch
+21:15:55 Section 54 complete: 1 closed profile
+21:15:55 Section 55/61: create sketch
+21:15:56 Section 55/61: constrain point 1/69
+21:16:00 Section 55/61: constrain point 9/69
+21:16:05 Section 55/61: constrain point 17/69
+21:16:11 Section 55/61: constrain point 25/69
+21:16:16 Section 55/61: constrain point 33/69
+21:16:21 Section 55/61: constrain point 41/69
+21:16:26 Section 55/61: constrain point 49/69
+21:16:31 Section 55/61: constrain point 57/69
+21:16:36 Section 55/61: constrain point 65/69
+21:16:39 Section 55/61: solve sketch
+21:16:39 Section 55 complete: 1 closed profile
+21:16:39 Section 56/61: create sketch
+21:16:40 Section 56/61: constrain point 1/69
+21:16:45 Section 56/61: constrain point 9/69
+21:16:50 Section 56/61: constrain point 17/69
+21:16:55 Section 56/61: constrain point 25/69
+21:17:00 Section 56/61: constrain point 33/69
+21:17:06 Section 56/61: constrain point 41/69
+21:17:11 Section 56/61: constrain point 49/69
+21:17:16 Section 56/61: constrain point 57/69
+21:17:21 Section 56/61: constrain point 65/69
+21:17:25 Section 56/61: solve sketch
+21:17:25 Section 56 complete: 1 closed profile
+21:17:25 Section 57/61: create sketch
+21:17:26 Section 57/61: constrain point 1/54
+21:17:30 Section 57/61: constrain point 9/54
+21:17:34 Section 57/61: constrain point 17/54
+21:17:39 Section 57/61: constrain point 25/54
+21:17:44 Section 57/61: constrain point 33/54
+21:17:48 Section 57/61: constrain point 41/54
+21:17:53 Section 57/61: constrain point 49/54
+21:17:56 Section 57/61: solve sketch
+21:17:57 Section 57 complete: 1 closed profile
+21:17:57 Section 58/61: create sketch
+21:17:57 Section 58/61: constrain point 1/55
+21:18:02 Section 58/61: constrain point 9/55
+21:18:06 Section 58/61: constrain point 17/55
+21:18:11 Section 58/61: constrain point 25/55
+21:18:16 Section 58/61: constrain point 33/55
+21:18:21 Section 58/61: constrain point 41/55
+21:18:25 Section 58/61: constrain point 49/55
+21:18:30 Section 58/61: solve sketch
+21:18:30 Section 58 complete: 1 closed profile
+21:18:30 Section 59/61: create sketch
+21:18:31 Section 59/61: constrain point 1/54
+21:18:35 Section 59/61: constrain point 9/54
+21:18:40 Section 59/61: constrain point 17/54
+21:18:45 Section 59/61: constrain point 25/54
+21:18:49 Section 59/61: constrain point 33/54
+21:18:54 Section 59/61: constrain point 41/54
+21:18:59 Section 59/61: constrain point 49/54
+21:19:03 Section 59/61: solve sketch
+21:19:03 Section 59 complete: 1 closed profile
+21:19:03 Section 60/61: create sketch
+21:19:04 Section 60/61: constrain point 1/55
+21:19:08 Section 60/61: constrain point 9/55
+21:19:13 Section 60/61: constrain point 17/55
+21:19:18 Section 60/61: constrain point 25/55
+21:19:23 Section 60/61: constrain point 33/55
+21:19:28 Section 60/61: constrain point 41/55
+21:19:33 Section 60/61: constrain point 49/55
+21:19:37 Section 60/61: solve sketch
+21:19:37 Section 60 complete: 1 closed profile
+21:19:37 Section 61/61: create sketch
+21:19:38 Section 61/61: constrain point 1/54
+21:19:42 Section 61/61: constrain point 9/54
+21:19:47 Section 61/61: constrain point 17/54
+21:19:52 Section 61/61: constrain point 25/54
+21:19:57 Section 61/61: constrain point 33/54
+21:20:02 Section 61/61: constrain point 41/54
+21:20:07 Section 61/61: constrain point 49/54
+21:20:11 Section 61/61: solve sketch
+21:20:11 Section 61 complete: 1 closed profile
+21:20:11 Build solid loft
+21:20:19 Compute design and fit view
+21:20:23 COMPLETE: one solid created

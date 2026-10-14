@@ -1,0 +1,21 @@
+{
+  "valid_solid": true,
+  "solids": 1,
+  "size_mm": [
+    200.00000000612482,
+    380.0000000000001,
+    10.882033945483736
+  ],
+  "minimum_top_height_mm": 6.982770230779079,
+  "maximum_top_height_mm": 10.882033945483736,
+  "max_tessellated_top_error_vs_analytic_mm": 0.6780967441981431,
+  "sections": 61,
+  "points_per_section_min_max": [
+    41,
+    75
+  ],
+  "triangles": 10266,
+  "note": "STEP/STL validated in OpenCascade. Fusion script syntax checked; full native Fusion run not available.",
+  "stl_closed_edges_at_0_0001_mm": true,
+  "stl_triangles": 10266
+}

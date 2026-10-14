@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "Gerald Jaideep",
+  "description": "V2 concave channels, editable ridge sharpness, adaptive crest samples, progress and diagnostics.",
+  "version": "2.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}

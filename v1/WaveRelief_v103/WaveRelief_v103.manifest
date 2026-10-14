@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "Gerald Jaideep",
+  "description": "Parametric relief with progress, cancellation and diagnostic log.",
+  "version": "1.0.3",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}

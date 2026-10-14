@@ -1,0 +1,70 @@
+{
+  "source": "Existing local WaveRelief_Fusion_v1_0_3 and WaveRelief_Fusion_V2 packages",
+  "changes": "Python and companion assets unchanged; manifest author changed to Gerald Jaideep; documentation added; build logs redacted. Original SHA-256 values below.",
+  "files": [
+    {
+      "path": "v1/WaveRelief_200x380.step",
+      "original_sha256": "6bcfa8e072ff5354b8c41362d89d5aed1b5ed6fd2551eb56d981a9a14ae1a338"
+    },
+    {
+      "path": "v1/WaveRelief_200x380.stl",
+      "original_sha256": "5d32747f4f3bcc0ae927f7ac7efbfb7f5ff397367ba56901875bcbc9a6ac1215"
+    },
+    {
+      "path": "v1/WaveRelief_preview.png",
+      "original_sha256": "2066d6225f57ba7b8223c56041c81538b062a325a5688f9b98a0c94a0376e9bc"
+    },
+    {
+      "path": "v1/WaveRelief_v103/.vscode/launch.json",
+      "original_sha256": "74c6385c084f53ef69fa4dfc6778269bd6ae12b57afefb80bf54a7f334cb2134"
+    },
+    {
+      "path": "v1/WaveRelief_v103/WaveRelief_v103.manifest",
+      "original_sha256": "4e4b424bf2b2b3c347eff1f1dee0178c5bb9d66688587f34655219312c69f1b2"
+    },
+    {
+      "path": "v1/WaveRelief_v103/WaveRelief_v103.py",
+      "original_sha256": "fdf32c4c442fc8eede0128143939c3f100d07a38927dba6e3a9b2a3a5dfda575"
+    },
+    {
+      "path": "v1/WaveRelief_v103/shape.py",
+      "original_sha256": "12d2a04e6c2ccf435d62baf1b4df807f2701a53e3c2278d801d78dc50b0ef7c4"
+    },
+    {
+      "path": "v1/validation.json",
+      "original_sha256": "d0bbfac31fb848a4f75efd99e602ccfeb7b077b0435f330b49464b0cf062f944"
+    },
+    {
+      "path": "v2/WaveRelief_V2_200x380.step",
+      "original_sha256": "31ab4d9d4f5396679819e1e8b991a142f8700b60526119332bbf3539c4f9801a"
+    },
+    {
+      "path": "v2/WaveRelief_V2_200x380.stl",
+      "original_sha256": "a8ff630871685ac37ba49010e6acfb584f9428b6929eb756949b400a3b81a7a4"
+    },
+    {
+      "path": "v2/WaveRelief_V2_preview.png",
+      "original_sha256": "ee0318e6e21fd822beef05decdf5628736ba97f42841c18734e7dfb4f13df406"
+    },
+    {
+      "path": "v2/WaveRelief_v2/.vscode/launch.json",
+      "original_sha256": "74c6385c084f53ef69fa4dfc6778269bd6ae12b57afefb80bf54a7f334cb2134"
+    },
+    {
+      "path": "v2/WaveRelief_v2/WaveRelief_v2.manifest",
+      "original_sha256": "0726410cf198687772d11c5321f1886fca41bc94d0e8c9dff72962697d1ecb23"
+    },
+    {
+      "path": "v2/WaveRelief_v2/WaveRelief_v2.py",
+      "original_sha256": "837972fc50ac4625079cb037adbb4ea8922d84b00eb5decb15524fc3ce3be1a3"
+    },
+    {
+      "path": "v2/WaveRelief_v2/shape.py",
+      "original_sha256": "5cd75368c32a884dd1086106b09e129051cc9a4a8c730a1a6403e7cb10df9ef3"
+    },
+    {
+      "path": "v2/validation.json",
+      "original_sha256": "decaba6d1e1591fe9c95ccb2a027d5e1333900ce87718f2532adeafb643d0d1e"
+    }
+  ]
+}
